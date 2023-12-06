@@ -3,6 +3,6 @@
 
  criei a função em JS
 
- coloquei um html chamando o script para facilitar o uso, só abrir o index.html no navegador que irá surgir um prompt solicitando o numero e irá imprimir na sua tela o resultado.
+ coloquei um html chamando o script para facilitar o uso, só abrir o index.html no navegador que irá surgir um prompt solicitando o numero e irá imprimir no meio da sua tela o resultado.
 
  
