@@ -12,6 +12,9 @@ function somDivisiveis(num) {
     return soma;
 }
 
+
+//uso facil por navegador com prompt pedindo o numero e imprimindo na tela 
+
 const x = prompt("Informe um numero: ");
 const resultado = somDivisiveis(x);
 document.getElementById("resultado").innerHTML = `O somatório dos valores divisíveis por 3 ou 5 até ${x} é: ${resultado}`;
